@@ -19,8 +19,9 @@ body {
     overflow: hidden;
 }  
 body {
-    color: rgb(0, 255, 8)
-    
+    border: 1px solid #d400ff;
+    overflow-y: scroll;
+    overflow-x: scroll;   
 }
 h1 {
     color: purple; background-color: rgba(255, 255, 255, 0.527);
