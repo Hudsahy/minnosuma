@@ -43,6 +43,7 @@ h1{
     flex-direction: flex;
     align-items: center;
     text-align: justify;
+    letter-spacing: normal;
 justify-content: center;
 flex-wrap: wrap;
 margin: 10px;
