@@ -42,6 +42,8 @@ h1{
     color: forestgreen; background-color: rgba(255, 255, 255, 0.527);
     flex-direction: flex;
     align-items: center;
+    width: 100%;
+    max-width: 1200px ;
     text-align: justify;
     letter-spacing: normal;
 justify-content: center;
