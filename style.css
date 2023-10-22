@@ -18,7 +18,6 @@ body {
     overflow: hidden;
 }  
 body {
-    border: 0px solid #d400ff;
     overflow-y: scroll;
     overflow-x: scroll;   
 }
