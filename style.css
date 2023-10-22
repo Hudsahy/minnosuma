@@ -45,7 +45,6 @@ h1{
     max-width: 1200px ;
     letter-spacing: normal;
 justify-content: center;
-flex-wrap: wrap;
 margin: 10px;
 }
 @media only screen and (max-width: 1024px) {
