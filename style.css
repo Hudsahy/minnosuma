@@ -18,7 +18,7 @@ body {
     overflow: hidden;
 }  
 body {
-    border: 1px solid #d400ff;
+    border: 0px solid #d400ff;
     overflow-y: scroll;
     overflow-x: scroll;   
 }
